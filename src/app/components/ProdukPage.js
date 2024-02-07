@@ -37,7 +37,7 @@ const ProdukPage = () => {
                 width: 900,
                 height: 800,
             },
-            productDescAlign: "order-1",
+            productDescAlign: "md:order-1",
             productFeatures: [
                 {
                     headInfo: "Manajemen Barang",
