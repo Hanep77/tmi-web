@@ -63,14 +63,8 @@ const Home = () => {
         </div>
       </section >
 
-      <div className=" bg-white">
-        <div className="p-[1rem] mx-[100px]">
-          <div className="">
-            <div>
-              <LayananPage />
-            </div>
-          </div>
-        </div>
+      <div>
+        <LayananPage />
       </div>
 
 
